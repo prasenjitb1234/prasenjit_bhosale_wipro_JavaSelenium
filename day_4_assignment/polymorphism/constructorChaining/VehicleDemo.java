@@ -1,5 +1,10 @@
 package day_4_assignment.polymorphism.constructorChaining;
 
+// question 4 : 
+//4.	Runtime Polymorphism with constructor Chaining                                                             create a class vehicle with a constructor that prints “Vehicle Created”
+//Create a subclass Bike that override a method and uses super() in constructor
+
+
 class Vehicle {
 	Vehicle() {
 		System.out.println("Vehicle Created");
