@@ -1,5 +1,12 @@
 package day_5_assignment.interfaces;
 
+//1. Reverse CharSequence: Custom BackwardSequence
+//•	Create a class BackwardSequence that implements java.lang.CharSequence.
+//•	Internally store a String and implement all required methods: length(), charAt(), subSequence(), and toString().
+//•	The sequence should be the reverse of the stored string (e.g., new BackwardSequence("hello") yields "olleh").
+//•	Write a main() method to test each method.
+
+
 public class BackwardSequence implements CharSequence {
 
 	private final String original;
