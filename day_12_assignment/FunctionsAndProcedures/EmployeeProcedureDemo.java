@@ -5,7 +5,7 @@ import java.sql.*;
 //Create procedure or functions for employee table 
 //1.	Add 5000 bonus to all employee
 //2.	Print same name employees
-//3.	Print highest and lowest salary from employee table
+//3.	Print highest and lowest salary from employee table . 
 
 public class EmployeeProcedureDemo {
 	public static void main(String[] args) {

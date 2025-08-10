@@ -3,7 +3,7 @@ package day_12_assignment.FunctionsAndProcedures;
 //Create procedure or functions for Hospital table
 //1. print avg patient count on daily basis
 //2. print all the patients whose belong to same ward
-//3. arrange the patients list according their admission date
+//3. arrange the patients list according their admission date .
 
 import java.sql.*;
 
