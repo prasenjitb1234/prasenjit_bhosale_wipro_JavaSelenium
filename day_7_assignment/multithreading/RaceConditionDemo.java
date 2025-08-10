@@ -3,13 +3,13 @@ package day_7_assignment.multithreading;
 // 10 Multiple threads increment a shared counter without synchronization - race condition demo
 
 
-class Counter {
-	int count = 0;
-
-	void increment() {
-		count++;
-	}
-}
+//class Counter {
+//	int count = 0;
+//
+//	void increment() {
+//		count++;
+//	}
+//}
 
 class RaceConditionThread extends Thread {
 	Counter counter;
