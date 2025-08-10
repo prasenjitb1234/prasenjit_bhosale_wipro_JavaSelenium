@@ -14,7 +14,7 @@ public class StudentManagement {
 
     public static void main(String[] args) {
         try {
-            // Step 1: Load Driver
+            // Step 1: Load Driver .
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             // Step 2: Establish Connection
