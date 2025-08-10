@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class AppendALineIntoExistingFile {
-//	•	5. Write a program to append a line of text to an existing file.
+//	•	5. Write a program to append a line of text to an existing file. .
 
 	public static void main(String[] args) {
 
