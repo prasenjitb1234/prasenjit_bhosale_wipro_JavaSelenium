@@ -2,6 +2,9 @@ package day_10_assignment.fileHandling;
 
 import java.io.File;
 
+
+//	8. Write a program that lists all the files in a directory.
+
 public class ListFilesInDirectory {
     public static void main(String[] args) {
 
